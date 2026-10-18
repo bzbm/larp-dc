@@ -27,3 +27,4 @@ keep the terminal open. status disappears when you close it.
 | `gta6.js` | Grand Theft Auto VI |
 | `crimson-desert.js` | Crimson Desert |
 | `nightreign.js` | ELDEN RING NIGHTREIGN |
+| `xcode.js` | XCODE |
